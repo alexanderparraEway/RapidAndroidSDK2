@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RapidAndroidSDK2.iml" filepath="$PROJECT_DIR$/RapidAndroidSDK2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynchronous example/asynchronous example.iml" filepath="$PROJECT_DIR$/asynchronous example/asynchronous example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidandroidsdk/rapidandroidsdk.iml" filepath="$PROJECT_DIR$/rapidandroidsdk/rapidandroidsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava example/rxjava example.iml" filepath="$PROJECT_DIR$/rxjava example/rxjava example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronous example/synchronous example.iml" filepath="$PROJECT_DIR$/synchronous example/synchronous example.iml" />
+    </modules>
+  </component>
+</project>
